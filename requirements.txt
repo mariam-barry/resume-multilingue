@@ -1,0 +1,10 @@
+streamlit
+trafilatura
+langdetect
+transformers==4.44.2
+sentencepiece
+torch
+sacremoses
+accelerate
+scikit-learn
+networkx
