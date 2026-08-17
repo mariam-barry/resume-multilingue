@@ -1,7 +1,7 @@
 streamlit
 trafilatura
 langdetect
-transformers==4.44.2
+transformers>=4.46.0
 sentencepiece
 torch
 sacremoses
